@@ -1,0 +1,69 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+## Eclipse, Spring, and Gradle:
+.classpath
+.project
+.settings
+.factorypath
+.springBeans
+*.pydevproject
+.metadata
+.gradle
+bin/
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+# External tool builders
+.externalToolBuilders/
+# Locally stored "Eclipse launch configurations"
+*.launch
+# CDT-specific
+.cproject
+# PDT-specific
+.buildpath
+# sbteclipse plugin 
+.target
+# TeXlipse plugin
+.texlipse
+
+
+## Maven:
+!.mvn/wrapper/maven-wrapper.jar
+/.mvn/
+/mvnw
+/mvnw.bat
+mvnw.cmd
+/log/
+*.log*
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
+
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
